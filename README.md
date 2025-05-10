@@ -1,4 +1,4 @@
-# **Medic - AI Healthcare Assistant **
+**Medic - AI Healthcare Assistant **
 Your AI-powered medical assistant for **instant, reliable healthcare insights**.  
  
 
